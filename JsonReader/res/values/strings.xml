@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JsonReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="null_str"></string>
+    
+    <string name="app_title">Semantic-Tabular UILayout</string>
+    
+    <string name="textView1_str">Brand:Sony\nName:XYQ\nUPC: XYC\nSeller:Wallmart\nPrice:100\n</string>
+    <string name="textView2_str">Brand:Sony\nName:ABC\nUPC: XYC\nSeller:Wallmart\nPrice:100\n</string> 
+    <string name="textView3_str">Brand:Sony\nName:ABC\nUPC: XYC\nSeller:Wallmart\nPrice:100\n</string> 
+    <string name="textView4_str">Brand:Sony\nName:ABC\nUPC: XYC\nSeller:Wallmart\nPrice:100\n</string> 
+        
+
+</resources>
